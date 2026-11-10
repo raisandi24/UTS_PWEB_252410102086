@@ -1,0 +1,1 @@
+<footer class="site-footer"><div><span class="footer-brand">♻ SAMDA</span><span> Sistem Pengelolaan Bank Sampah Kampus</span></div><p>© 2026 SAMDA · Kampus lebih bersih, masa depan lebih hijau.</p></footer>
